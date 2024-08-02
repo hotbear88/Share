@@ -1,0 +1,299 @@
+2024-08-02 09:35:30 - window_action called: action=Infos
+2024-08-02 09:35:30 - open_dialog start: dialog_num=1, dialog_class=BasicInfo
+2024-08-02 09:35:30 - Start new window creation: BasicInfo
+2024-08-02 09:35:30 - BasicInfo Created: 1522747666880
+2024-08-02 09:35:30 - dialog object created: id=1522747666880
+2024-08-02 09:35:30 - QMdiSubWindow created: id=1522747849344
+2024-08-02 09:35:30 - added to sub_window_objects: BasicInfo(id=1522747666880)
+2024-08-02 09:35:30 - After open_dialog function, sub window objects remained in memory:
+2024-08-02 09:35:30 - ['BasicInfo(id=1522747666880)']
+2024-08-02 09:35:30 - 1
+2024-08-02 09:35:30 - open_dialog closed
+2024-08-02 09:35:30 - currently opened sub windows:
+2024-08-02 09:35:30 -   Window 1: BasicInfo(id=1522747666880)
+2024-08-02 09:35:30 - sub_window_objects: ['BasicInfo']
+2024-08-02 09:35:31 - window_action called: action=Inputs
+2024-08-02 09:35:31 - open_dialog start: dialog_num=2, dialog_class=ProductInfo
+2024-08-02 09:35:31 - Start new window creation: ProductInfo
+2024-08-02 09:35:31 - ProductInfo Created: 1522747953600
+2024-08-02 09:35:31 - dialog object created: id=1522747953600
+2024-08-02 09:35:31 - QMdiSubWindow created: id=1522748136640
+2024-08-02 09:35:31 - added to sub_window_objects: ProductInfo(id=1522747953600)
+2024-08-02 09:35:31 - After open_dialog function, sub window objects remained in memory:
+2024-08-02 09:35:31 - ['BasicInfo(id=1522747666880)', 'ProductInfo(id=1522747953600)']
+2024-08-02 09:35:31 - 2
+2024-08-02 09:35:31 - open_dialog closed
+2024-08-02 09:35:31 - currently opened sub windows:
+2024-08-02 09:35:31 -   Window 1: BasicInfo(id=1522747666880)
+2024-08-02 09:35:31 -   Window 2: ProductInfo(id=1522747953600)
+2024-08-02 09:35:31 - sub_window_objects: ['BasicInfo', 'ProductInfo']
+2024-08-02 09:35:33 - BasicInfo closeEvent Called: 1522747666880
+2024-08-02 09:35:33 - handle_sub_window_close called: dialog=BasicInfo, id=1522747666880
+2024-08-02 09:35:33 - After execution of the handle_sub_window_close, remained sub window objects in memory:
+2024-08-02 09:35:33 - ['ProductInfo(id=1522747953600)']
+2024-08-02 09:35:33 - 3
+2024-08-02 09:35:33 - cleared from open_windows function: key=1
+2024-08-02 09:35:33 - currently opened sub windows:
+2024-08-02 09:35:33 -   Window 2: ProductInfo(id=1522747953600)
+2024-08-02 09:35:33 - sub_window_objects: ['ProductInfo']
+2024-08-02 09:35:33 - BasicInfo Closed
+2024-08-02 09:35:34 - ProductInfo closeEvent Called: 1522747953600
+2024-08-02 09:35:34 - handle_sub_window_close called: dialog=ProductInfo, id=1522747953600
+2024-08-02 09:35:34 - After execution of the handle_sub_window_close, remained sub window objects in memory:
+2024-08-02 09:35:34 - []
+2024-08-02 09:35:34 - 4
+2024-08-02 09:35:34 - cleared from open_windows function: key=2
+2024-08-02 09:35:34 - currently opened sub windows:
+2024-08-02 09:35:34 - sub_window_objects: []
+2024-08-02 09:35:34 - ProductInfo Closed
+2024-08-02 09:35:35 - window_action called: action=Infos
+2024-08-02 09:35:35 - open_dialog start: dialog_num=1, dialog_class=BasicInfo
+2024-08-02 09:35:35 - Start new window creation: BasicInfo
+2024-08-02 09:35:35 - BasicInfo Created: 1522747805248
+2024-08-02 09:35:35 - dialog object created: id=1522747805248
+2024-08-02 09:35:35 - QMdiSubWindow created: id=1522748137920
+2024-08-02 09:35:35 - added to sub_window_objects: BasicInfo(id=1522747805248)
+2024-08-02 09:35:35 - After open_dialog function, sub window objects remained in memory:
+2024-08-02 09:35:35 - ['BasicInfo(id=1522747805248)']
+2024-08-02 09:35:35 - 5
+2024-08-02 09:35:35 - open_dialog closed
+2024-08-02 09:35:35 - currently opened sub windows:
+2024-08-02 09:35:35 -   Window 1: BasicInfo(id=1522747805248)
+2024-08-02 09:35:35 - sub_window_objects: ['BasicInfo']
+2024-08-02 09:35:36 - window_action called: action=Inputs
+2024-08-02 09:35:36 - open_dialog start: dialog_num=2, dialog_class=ProductInfo
+2024-08-02 09:35:36 - Start new window creation: ProductInfo
+2024-08-02 09:35:36 - ProductInfo Created: 1522747953664
+2024-08-02 09:35:36 - dialog object created: id=1522747953664
+2024-08-02 09:35:36 - QMdiSubWindow created: id=1522765558976
+2024-08-02 09:35:36 - added to sub_window_objects: ProductInfo(id=1522747953664)
+2024-08-02 09:35:36 - After open_dialog function, sub window objects remained in memory:
+2024-08-02 09:35:36 - ['BasicInfo(id=1522747805248)', 'ProductInfo(id=1522747953664)']
+2024-08-02 09:35:36 - 6
+2024-08-02 09:35:36 - open_dialog closed
+2024-08-02 09:35:36 - currently opened sub windows:
+2024-08-02 09:35:36 -   Window 1: BasicInfo(id=1522747805248)
+2024-08-02 09:35:36 -   Window 2: ProductInfo(id=1522747953664)
+2024-08-02 09:35:36 - sub_window_objects: ['BasicInfo', 'ProductInfo']
+2024-08-02 09:35:37 - BasicInfo closeEvent Called: 1522747805248
+2024-08-02 09:35:37 - handle_sub_window_close called: dialog=BasicInfo, id=1522747805248
+2024-08-02 09:35:37 - After execution of the handle_sub_window_close, remained sub window objects in memory:
+2024-08-02 09:35:37 - ['ProductInfo(id=1522747953664)']
+2024-08-02 09:35:37 - 7
+2024-08-02 09:35:37 - cleared from open_windows function: key=1
+2024-08-02 09:35:37 - currently opened sub windows:
+2024-08-02 09:35:37 -   Window 2: ProductInfo(id=1522747953664)
+2024-08-02 09:35:37 - sub_window_objects: ['ProductInfo']
+2024-08-02 09:35:37 - BasicInfo Closed
+2024-08-02 09:35:38 - ProductInfo closeEvent Called: 1522747953664
+2024-08-02 09:35:38 - handle_sub_window_close called: dialog=ProductInfo, id=1522747953664
+2024-08-02 09:35:38 - After execution of the handle_sub_window_close, remained sub window objects in memory:
+2024-08-02 09:35:38 - []
+2024-08-02 09:35:38 - 8
+2024-08-02 09:35:38 - cleared from open_windows function: key=2
+2024-08-02 09:35:38 - currently opened sub windows:
+2024-08-02 09:35:38 - sub_window_objects: []
+2024-08-02 09:35:38 - ProductInfo Closed
+2024-08-02 09:35:39 - window_action called: action=Infos
+2024-08-02 09:35:39 - open_dialog start: dialog_num=1, dialog_class=BasicInfo
+2024-08-02 09:35:39 - Start new window creation: BasicInfo
+2024-08-02 09:35:39 - BasicInfo Created: 1522765530944
+2024-08-02 09:35:39 - dialog object created: id=1522765530944
+2024-08-02 09:35:39 - QMdiSubWindow created: id=1522748139840
+2024-08-02 09:35:39 - added to sub_window_objects: BasicInfo(id=1522765530944)
+2024-08-02 09:35:39 - After open_dialog function, sub window objects remained in memory:
+2024-08-02 09:35:39 - ['BasicInfo(id=1522765530944)']
+2024-08-02 09:35:39 - 9
+2024-08-02 09:35:39 - open_dialog closed
+2024-08-02 09:35:39 - currently opened sub windows:
+2024-08-02 09:35:39 -   Window 1: BasicInfo(id=1522765530944)
+2024-08-02 09:35:39 - sub_window_objects: ['BasicInfo']
+2024-08-02 09:35:40 - window_action called: action=Inputs
+2024-08-02 09:35:40 - open_dialog start: dialog_num=2, dialog_class=ProductInfo
+2024-08-02 09:35:40 - Start new window creation: ProductInfo
+2024-08-02 09:35:41 - ProductInfo Created: 1522747930048
+2024-08-02 09:35:41 - dialog object created: id=1522747930048
+2024-08-02 09:35:41 - QMdiSubWindow created: id=1522765551232
+2024-08-02 09:35:41 - added to sub_window_objects: ProductInfo(id=1522747930048)
+2024-08-02 09:35:41 - After open_dialog function, sub window objects remained in memory:
+2024-08-02 09:35:41 - ['BasicInfo(id=1522765530944)', 'ProductInfo(id=1522747930048)']
+2024-08-02 09:35:41 - 10
+2024-08-02 09:35:41 - open_dialog closed
+2024-08-02 09:35:41 - currently opened sub windows:
+2024-08-02 09:35:41 -   Window 1: BasicInfo(id=1522765530944)
+2024-08-02 09:35:41 -   Window 2: ProductInfo(id=1522747930048)
+2024-08-02 09:35:41 - sub_window_objects: ['BasicInfo', 'ProductInfo']
+2024-08-02 09:51:58 - window_action called: action=Infos
+2024-08-02 09:51:58 - open_dialog start: dialog_num=1, dialog_class=BasicInfo
+2024-08-02 09:51:58 - Start new window creation: BasicInfo
+2024-08-02 09:51:58 - BasicInfo Created: 2390815224448
+2024-08-02 09:51:58 - dialog object created: id=2390815224448
+2024-08-02 09:51:58 - QMdiSubWindow created: id=2390815386624
+2024-08-02 09:51:58 - added to sub_window_objects: BasicInfo(id=2390815224448)
+2024-08-02 09:51:58 - After open_dialog function, sub window objects remained in memory:
+2024-08-02 09:51:58 - ['BasicInfo(id=2390815224448)']
+2024-08-02 09:51:58 - 1
+2024-08-02 09:51:58 - open_dialog closed
+2024-08-02 09:51:58 - currently opened sub windows:
+2024-08-02 09:51:58 -   Window 1: BasicInfo(id=2390815224448)
+2024-08-02 09:51:58 - sub_window_objects: ['BasicInfo']
+2024-08-02 09:52:00 - window_action called: action=Inputs
+2024-08-02 09:52:00 - open_dialog start: dialog_num=2, dialog_class=ProductInfo
+2024-08-02 09:52:00 - Start new window creation: ProductInfo
+2024-08-02 09:52:00 - ProductInfo Created: 2390815385088
+2024-08-02 09:52:00 - dialog object created: id=2390815385088
+2024-08-02 09:52:00 - QMdiSubWindow created: id=2390815415104
+2024-08-02 09:52:00 - added to sub_window_objects: ProductInfo(id=2390815385088)
+2024-08-02 09:52:00 - After open_dialog function, sub window objects remained in memory:
+2024-08-02 09:52:00 - ['BasicInfo(id=2390815224448)', 'ProductInfo(id=2390815385088)']
+2024-08-02 09:52:00 - 2
+2024-08-02 09:52:00 - open_dialog closed
+2024-08-02 09:52:00 - currently opened sub windows:
+2024-08-02 09:52:00 -   Window 1: BasicInfo(id=2390815224448)
+2024-08-02 09:52:00 -   Window 2: ProductInfo(id=2390815385088)
+2024-08-02 09:52:00 - sub_window_objects: ['BasicInfo', 'ProductInfo']
+2024-08-02 09:52:02 - BasicInfo closeEvent Called: 2390815224448
+2024-08-02 09:52:02 - handle_sub_window_close called: dialog=BasicInfo, id=2390815224448
+2024-08-02 09:52:02 - After execution of the handle_sub_window_close, remained sub window objects in memory:
+2024-08-02 09:52:02 - ['ProductInfo(id=2390815385088)']
+2024-08-02 09:52:02 - 3
+2024-08-02 09:52:02 - cleared from open_windows function: key=1
+2024-08-02 09:52:02 - currently opened sub windows:
+2024-08-02 09:52:02 -   Window 2: ProductInfo(id=2390815385088)
+2024-08-02 09:52:02 - sub_window_objects: ['ProductInfo']
+2024-08-02 09:52:02 - BasicInfo Closed
+2024-08-02 09:52:03 - ProductInfo closeEvent Called: 2390815385088
+2024-08-02 09:52:03 - handle_sub_window_close called: dialog=ProductInfo, id=2390815385088
+2024-08-02 09:52:03 - After execution of the handle_sub_window_close, remained sub window objects in memory:
+2024-08-02 09:52:03 - []
+2024-08-02 09:52:03 - 4
+2024-08-02 09:52:03 - cleared from open_windows function: key=2
+2024-08-02 09:52:03 - currently opened sub windows:
+2024-08-02 09:52:03 - sub_window_objects: []
+2024-08-02 09:52:03 - ProductInfo Closed
+2024-08-02 09:52:05 - window_action called: action=Infos
+2024-08-02 09:52:05 - open_dialog start: dialog_num=1, dialog_class=BasicInfo
+2024-08-02 09:52:05 - Start new window creation: BasicInfo
+2024-08-02 09:52:05 - BasicInfo Created: 2390815423168
+2024-08-02 09:52:05 - dialog object created: id=2390815423168
+2024-08-02 09:52:05 - QMdiSubWindow created: id=2390871447744
+2024-08-02 09:52:05 - added to sub_window_objects: BasicInfo(id=2390815423168)
+2024-08-02 09:52:05 - After open_dialog function, sub window objects remained in memory:
+2024-08-02 09:52:05 - ['BasicInfo(id=2390815423168)']
+2024-08-02 09:52:05 - 5
+2024-08-02 09:52:05 - open_dialog closed
+2024-08-02 09:52:05 - currently opened sub windows:
+2024-08-02 09:52:05 -   Window 1: BasicInfo(id=2390815423168)
+2024-08-02 09:52:05 - sub_window_objects: ['BasicInfo']
+2024-08-02 09:52:08 - window_action called: action=Inputs
+2024-08-02 09:52:08 - open_dialog start: dialog_num=2, dialog_class=ProductInfo
+2024-08-02 09:52:08 - Start new window creation: ProductInfo
+2024-08-02 09:52:08 - ProductInfo Created: 2390815596096
+2024-08-02 09:52:08 - dialog object created: id=2390815596096
+2024-08-02 09:52:08 - QMdiSubWindow created: id=2390815610752
+2024-08-02 09:52:08 - added to sub_window_objects: ProductInfo(id=2390815596096)
+2024-08-02 09:52:08 - After open_dialog function, sub window objects remained in memory:
+2024-08-02 09:52:08 - ['BasicInfo(id=2390815423168)', 'ProductInfo(id=2390815596096)']
+2024-08-02 09:52:08 - 6
+2024-08-02 09:52:08 - open_dialog closed
+2024-08-02 09:52:08 - currently opened sub windows:
+2024-08-02 09:52:08 -   Window 1: BasicInfo(id=2390815423168)
+2024-08-02 09:52:08 -   Window 2: ProductInfo(id=2390815596096)
+2024-08-02 09:52:08 - sub_window_objects: ['BasicInfo', 'ProductInfo']
+2024-08-02 09:52:09 - BasicInfo closeEvent Called: 2390815423168
+2024-08-02 09:52:09 - handle_sub_window_close called: dialog=BasicInfo, id=2390815423168
+2024-08-02 09:52:09 - After execution of the handle_sub_window_close, remained sub window objects in memory:
+2024-08-02 09:52:09 - ['ProductInfo(id=2390815596096)']
+2024-08-02 09:52:09 - 7
+2024-08-02 09:52:09 - cleared from open_windows function: key=1
+2024-08-02 09:52:09 - currently opened sub windows:
+2024-08-02 09:52:09 -   Window 2: ProductInfo(id=2390815596096)
+2024-08-02 09:52:09 - sub_window_objects: ['ProductInfo']
+2024-08-02 09:52:09 - BasicInfo Closed
+2024-08-02 09:52:10 - ProductInfo closeEvent Called: 2390815596096
+2024-08-02 09:52:10 - handle_sub_window_close called: dialog=ProductInfo, id=2390815596096
+2024-08-02 09:52:10 - After execution of the handle_sub_window_close, remained sub window objects in memory:
+2024-08-02 09:52:10 - []
+2024-08-02 09:52:10 - 8
+2024-08-02 09:52:10 - cleared from open_windows function: key=2
+2024-08-02 09:52:10 - currently opened sub windows:
+2024-08-02 09:52:10 - sub_window_objects: []
+2024-08-02 09:52:10 - ProductInfo Closed
+2024-08-02 09:52:11 - window_action called: action=Infos
+2024-08-02 09:52:11 - open_dialog start: dialog_num=1, dialog_class=BasicInfo
+2024-08-02 09:52:11 - Start new window creation: BasicInfo
+2024-08-02 09:52:11 - BasicInfo Created: 2390815612992
+2024-08-02 09:52:11 - dialog object created: id=2390815612992
+2024-08-02 09:52:11 - QMdiSubWindow created: id=2390871527872
+2024-08-02 09:52:11 - added to sub_window_objects: BasicInfo(id=2390815612992)
+2024-08-02 09:52:11 - After open_dialog function, sub window objects remained in memory:
+2024-08-02 09:52:11 - ['BasicInfo(id=2390815612992)']
+2024-08-02 09:52:11 - 9
+2024-08-02 09:52:11 - open_dialog closed
+2024-08-02 09:52:11 - currently opened sub windows:
+2024-08-02 09:52:11 -   Window 1: BasicInfo(id=2390815612992)
+2024-08-02 09:52:11 - sub_window_objects: ['BasicInfo']
+2024-08-02 09:52:12 - window_action called: action=Inputs
+2024-08-02 09:52:12 - open_dialog start: dialog_num=2, dialog_class=ProductInfo
+2024-08-02 09:52:12 - Start new window creation: ProductInfo
+2024-08-02 09:52:12 - ProductInfo Created: 2390871442432
+2024-08-02 09:52:12 - dialog object created: id=2390871442432
+2024-08-02 09:52:12 - QMdiSubWindow created: id=2390815223872
+2024-08-02 09:52:12 - added to sub_window_objects: ProductInfo(id=2390871442432)
+2024-08-02 09:52:12 - After open_dialog function, sub window objects remained in memory:
+2024-08-02 09:52:12 - ['BasicInfo(id=2390815612992)', 'ProductInfo(id=2390871442432)']
+2024-08-02 09:52:12 - 10
+2024-08-02 09:52:12 - open_dialog closed
+2024-08-02 09:52:12 - currently opened sub windows:
+2024-08-02 09:52:12 -   Window 1: BasicInfo(id=2390815612992)
+2024-08-02 09:52:12 -   Window 2: ProductInfo(id=2390871442432)
+2024-08-02 09:52:12 - sub_window_objects: ['BasicInfo', 'ProductInfo']
+2024-08-02 10:03:22 - window_action called: action=Infos
+2024-08-02 10:03:22 - open_dialog start: dialog_num=1, dialog_class=BasicInfo
+2024-08-02 10:03:22 - Start new window creation: BasicInfo
+2024-08-02 10:03:22 - BasicInfo Created: 2510878306880
+2024-08-02 10:03:22 - dialog object created: id=2510878306880
+2024-08-02 10:03:22 - QMdiSubWindow created: id=2510878449856
+2024-08-02 10:03:22 - added to sub_window_objects: BasicInfo(id=2510878306880)
+2024-08-02 10:03:22 - After open_dialog function, sub window objects remained in memory:
+2024-08-02 10:03:22 - ['BasicInfo(id=2510878306880)']
+2024-08-02 10:03:22 - 1
+2024-08-02 10:03:22 - open_dialog closed
+2024-08-02 10:03:22 - currently opened sub windows:
+2024-08-02 10:03:22 -   Window 1: BasicInfo(id=2510878306880)
+2024-08-02 10:03:22 - sub_window_objects: ['BasicInfo']
+2024-08-02 10:03:25 - window_action called: action=Inputs
+2024-08-02 10:03:25 - open_dialog start: dialog_num=2, dialog_class=ProductInfo
+2024-08-02 10:03:25 - Start new window creation: ProductInfo
+2024-08-02 10:03:25 - ProductInfo Created: 2510878305984
+2024-08-02 10:03:25 - dialog object created: id=2510878305984
+2024-08-02 10:03:25 - QMdiSubWindow created: id=2510878781120
+2024-08-02 10:03:25 - added to sub_window_objects: ProductInfo(id=2510878305984)
+2024-08-02 10:03:25 - After open_dialog function, sub window objects remained in memory:
+2024-08-02 10:03:25 - ['BasicInfo(id=2510878306880)', 'ProductInfo(id=2510878305984)']
+2024-08-02 10:03:25 - 2
+2024-08-02 10:03:25 - open_dialog closed
+2024-08-02 10:03:25 - currently opened sub windows:
+2024-08-02 10:03:25 -   Window 1: BasicInfo(id=2510878306880)
+2024-08-02 10:03:25 -   Window 2: ProductInfo(id=2510878305984)
+2024-08-02 10:03:25 - sub_window_objects: ['BasicInfo', 'ProductInfo']
+2024-08-02 10:17:19 - MainWindow closeEvent called
+2024-08-02 10:17:19 - BasicInfo closeEvent Called: 2510878306880
+2024-08-02 10:17:19 - handle_sub_window_close called: dialog=BasicInfo, id=2510878306880
+2024-08-02 10:17:19 - After execution of the handle_sub_window_close, remained sub window objects in memory:
+2024-08-02 10:17:19 - ['ProductInfo(id=2510878305984)']
+2024-08-02 10:17:19 - 3
+2024-08-02 10:17:19 - cleared from open_windows function: key=1
+2024-08-02 10:17:19 - currently opened sub windows:
+2024-08-02 10:17:19 -   Window 2: ProductInfo(id=2510878305984)
+2024-08-02 10:17:19 - sub_window_objects: ['ProductInfo']
+2024-08-02 10:17:19 - BasicInfo Closed
+2024-08-02 10:17:19 - ProductInfo closeEvent Called: 2510878305984
+2024-08-02 10:17:19 - handle_sub_window_close called: dialog=ProductInfo, id=2510878305984
+2024-08-02 10:17:19 - After execution of the handle_sub_window_close, remained sub window objects in memory:
+2024-08-02 10:17:19 - []
+2024-08-02 10:17:19 - 4
+2024-08-02 10:17:19 - cleared from open_windows function: key=2
+2024-08-02 10:17:19 - currently opened sub windows:
+2024-08-02 10:17:19 - sub_window_objects: []
+2024-08-02 10:17:19 - ProductInfo Closed
